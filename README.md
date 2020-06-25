@@ -4,12 +4,12 @@ This repository is part of the ACCV 2020 submission **Bridging Adversarial and S
 
 ## Installation
 1. We provide the yml-file for the virtual conda envirement in the file <br>
-   `pytorch.yml`.   After installation you should be able to run the code in this repository.
+   [pytorch.yml](https://github.com/sub-dawg/ASAN/blob/master/pytorch.yml).   After installation you should be able to run the code in this repository.
 
 2. First, download the dataset your are prefering.
    The links to the datasets can be found in the respective sections.
-3. After download, unzip the files and place the output folders as they are in the directory image/ folder.
-4. (Optional: Adapt the dataset lists in data/ to your to preferred path)
+3. After download, unzip the files and place the output folders as they are in the directory [images](https://github.com/sub-dawg/ASAN/blob/master/image/).
+4. (Optional: Adapt the dataset lists in [data](https://github.com/sub-dawg/ASAN/blob/master/data/) to your to preferred path)
 
 ## Demo
 For a simple training-evaluation demo run with preset parameters, you can use the following commands for training on

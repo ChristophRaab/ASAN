@@ -303,12 +303,12 @@ def load_adapted_resnet_features(filepath = "resnet_lrsl.pth"):
     return pretrained_model
 
 def get_domain_adaptation_images():
-    example_list = [('../../../datasets/domain_adaptation/Office-31/images/dslr/calculator/frame_0006.jpg', 5),
-                    ('../../../datasets/domain_adaptation/Office-31/images/dslr/bike/frame_0002.jpg', 1),
-                    ('../../../datasets/domain_adaptation/Office-31/images/dslr/desk_lamp/frame_0003.jpg', 7),
-                    ('../../../datasets/domain_adaptation/Office-31/images/amazon/calculator/frame_0022.jpg', 5),
-                    ('../../../datasets/domain_adaptation/Office-31/images/amazon/bike/frame_0001.jpg', 1),
-                    ('../../../datasets/domain_adaptation/Office-31/images/amazon/desk_lamp/frame_0003.jpg',7)]
+    example_list = [('../../images/Office-31/images/dslr/calculator/frame_0006.jpg', 5),
+                    ('../../images/Office-31/images/dslr/bike/frame_0002.jpg', 1),
+                    ('../../images/Office-31/images/dslr/desk_lamp/frame_0003.jpg', 7),
+                    ('../../images/Office-31/images/amazon/calculator/frame_0022.jpg', 5),
+                    ('../../images/Office-31/images/amazon/bike/frame_0001.jpg', 1),
+                    ('../../images/Office-31/images/amazon/desk_lamp/frame_0003.jpg',7)]
     return example_list
 
 def preprocess_example_image(example_list):
