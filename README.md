@@ -8,7 +8,7 @@ This repository is part of the ACCV 2020 submission **Bridging Adversarial and S
 
 2. First, download the dataset your are prefering.
    The links to the datasets can be found in the respective sections.
-3. After download, unzip the files and place the output folders as they are in the directory [images](https://github.com/sub-dawg/ASAN/blob/master/image/).
+3. After download, unzip the files and place the output folders as they are in the directory [images](https://github.com/sub-dawg/ASAN/blob/master/images/).
 4. (Optional: Adapt the dataset lists in [data](https://github.com/sub-dawg/ASAN/blob/master/data/) to your to preferred path)
 
 ## Demo
@@ -29,13 +29,13 @@ For a simple training-evaluation demo run with preset parameters, you can use th
 
 ## Datasets
 ### Office-31
-Office-31 dataset can be found [here](https://drive.google.com/file/d/1DwwIb1bPvCpQfxDIDpzIsS_N1PmSeJZC/view?usp=sharing).
+Office-31 dataset can be found [here](https://drive.google.com/file/d/11nywfWdfdBi92Lr3y4ga2Cu4_-FpWKUC/view?usp=sharing).
 
 ### Office-Home
-Office-Home dataset can be found [here](https://drive.google.com/file/d/1bedw98q0-yWWqObZ0yHUiVb-FzwTXX3t/view?usp=sharing).
+Office-Home dataset can be found [here](https://drive.google.com/file/d/1W_U8GsILKdMSxqhnmTbYaaWhvQ-P4RJ1/view?usp=sharing).
 
 ### Image-clef
-Image-Clef dataset can be found [here](https://drive.google.com/file/d/1uCJvSL4wcc8cyaXOWIxqbE1dgJjIud6D/view).
+Image-Clef dataset can be found [here](https://drive.google.com/file/d/1lu1ouDoeucW8MgmaKVATwNt5JT7Uvk62/view?usp=sharing).
 
 
 ## Acknowledgement

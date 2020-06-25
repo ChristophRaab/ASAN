@@ -75,5 +75,4 @@ dependencies:
     - torchsummary==1.5.1
     - tqdm==4.38.0
     - werkzeug==0.16.0
-prefix: C:\Users\craab\Anaconda3\envs\pytorch
 
