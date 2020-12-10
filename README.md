@@ -1,6 +1,7 @@
 # Adversarial Spectral Adaptation Network (ASAN).
 Pytorch Source code for **Adversarial Spectral Adaptation Network (ASAN)**.<br>
 This repository is part of the ACCV 2020 submission **Bridging Adversarial and Statistical DomainTransfer via Spectral Adaptation Networks**
+[Link to paper](https://openaccess.thecvf.com/content/ACCV2020/html/Raab_Bridging_Adversarial_and_Statistical_Domain_Transfer_via_Spectral_Adaptation_Networks_ACCV_2020_paper.html)
 
 ## Installation
 1. We provide the yml-file for the virtual conda envirement in the file <br>
