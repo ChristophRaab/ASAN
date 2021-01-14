@@ -28,7 +28,7 @@ For a simple training-evaluation demo run with preset parameters, you can use th
 1. The network can be trained via train_image.py
    See the Args-Parser parameter description in the file for the documentation of the parameters.
 
-2. The trained models is obtainable under snapshopt/san
+2. The trained models are obtainable under snapshopt/san
 
 
 ## Datasets
